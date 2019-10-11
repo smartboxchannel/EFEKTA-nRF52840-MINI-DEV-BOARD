@@ -26,11 +26,11 @@ Components (BOM):
 
 7. PRTR5V0U2X WR1 ESD protection diode SOT-143 (U5) - https://ali.ski/irIEA-
 
-8a. 0805 SMD Chip Magnetic Bead Inductor 400MA Ferrite (FR1, FR2) -  https://ali.ski/Hd-nMn
+8. a. 0805 SMD Chip Magnetic Bead Inductor 400MA Ferrite (FR1, FR2) -  https://ali.ski/Hd-nMn
 
 OR
 
-8b. 0603 SMD Magnetic beads 120R 120 ohm 500MA Ferrite (FR1, FR2) -  https://ali.ski/cx14F1
+8. b. 0603 SMD Magnetic beads 120R 120 ohm 500MA Ferrite (FR1, FR2) -  https://ali.ski/cx14F1
 
 9. USB 2.0 Male A Type (U6) - https://ali.ski/KH-e7
 
