@@ -52,3 +52,9 @@ WHITE SMT type CR2032 Coin Cell holder TBH-CR2032-15W (U7) - https://ali.ski/GeQ
 
 2.54mm Pin Header 40p Single Row Male Header Connector 2P - https://ali.ski/i76Aq
 
+Capacitor 12PF 0805 (C1, C4) - https://ali.ski/3DDQIl
+
+Capacitor 4.7UF X5R 10V 0805 (C2, C3) - https://ali.ski/_VN0v
+
+
+
