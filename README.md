@@ -77,4 +77,6 @@ WHITE SMT type CR2032 Coin Cell holder TBH-CR2032-15W (U7) - https://ali.ski/GeQ
 
 
 
+https://github.com/smartboxchannel/EFEKTA-nRF52840-MINI-DEV-BOARD/blob/master/IMAGES/001.png
+
 
