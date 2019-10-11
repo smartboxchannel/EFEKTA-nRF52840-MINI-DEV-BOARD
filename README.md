@@ -26,25 +26,25 @@ Components (BOM):
 
 7. PRTR5V0U2X WR1 ESD protection diode SOT-143 (U5) - https://ali.ski/irIEA-
 
-8. 0805 SMD Chip Magnetic Bead Inductor 400MA Ferrite (FR1, FR2) -  https://ali.ski/Hd-nMn
+8a. 0805 SMD Chip Magnetic Bead Inductor 400MA Ferrite (FR1, FR2) -  https://ali.ski/Hd-nMn
 
 OR
 
-0603 SMD Magnetic beads 120R 120 ohm 500MA Ferrite (FR1, FR2) -  https://ali.ski/cx14F1
+8b. 0603 SMD Magnetic beads 120R 120 ohm 500MA Ferrite (FR1, FR2) -  https://ali.ski/cx14F1
 
 9. USB 2.0 Male A Type (U6) - https://ali.ski/KH-e7
 
 10. Micro USB Connector Jack Female Type 5Pin SMT (U8) - https://ali.ski/x5lxC
 
-10. BROWN Battery Button Cell Holder Socket Case Black TBH-CR2032-15K (U7) - https://ali.ski/z2RbRj
+10a. BROWN Battery Button Cell Holder Socket Case Black TBH-CR2032-15K (U7) - https://ali.ski/z2RbRj
 
 OR
 
-BLACK Battery Button Cell Holder Socket Case Black TBH-CR2032-15 (U7) - https://ali.ski/O4vRrM
+10b. BLACK Battery Button Cell Holder Socket Case Black TBH-CR2032-15 (U7) - https://ali.ski/O4vRrM
 
 OR
 
-WHITE SMT type CR2032 Coin Cell holder TBH-CR2032-15W (U7) - https://ali.ski/GeQV4A
+10c. WHITE SMT type CR2032 Coin Cell holder TBH-CR2032-15W (U7) - https://ali.ski/GeQV4A
 
 12. 2.54mm Single Row Female PCB Board Pin Header Connector 14P - https://ali.ski/_k-XdS
 
