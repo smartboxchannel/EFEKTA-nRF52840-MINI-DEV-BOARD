@@ -7,3 +7,8 @@ Compatible with pca10059 (Dongle) Board. Can be used in the development of Zigbe
 More info at http://efektalab.com/mdb73
 
 Contact: hello@efektalab.com
+
+---
+
+Components (BOM):
+
