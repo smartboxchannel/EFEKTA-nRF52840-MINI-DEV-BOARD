@@ -36,15 +36,15 @@ OR
 
 10. Micro USB Connector Jack Female Type 5Pin SMT (U8) - https://ali.ski/x5lxC
 
-11a. BROWN Battery Button Cell Holder Socket Case Black TBH-CR2032-15K (U7) - https://ali.ski/z2RbRj
+11. a. BROWN Battery Button Cell Holder Socket Case Black TBH-CR2032-15K (U7) - https://ali.ski/z2RbRj
 
 OR
 
-11b. BLACK Battery Button Cell Holder Socket Case Black TBH-CR2032-15 (U7) - https://ali.ski/O4vRrM
+11. b. BLACK Battery Button Cell Holder Socket Case Black TBH-CR2032-15 (U7) - https://ali.ski/O4vRrM
 
 OR
 
-11c. WHITE SMT type CR2032 Coin Cell holder TBH-CR2032-15W (U7) - https://ali.ski/GeQV4A
+11. c. WHITE SMT type CR2032 Coin Cell holder TBH-CR2032-15W (U7) - https://ali.ski/GeQV4A
 
 12. 2.54mm Single Row Female PCB Board Pin Header Connector 14P - https://ali.ski/_k-XdS
 
