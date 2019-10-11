@@ -12,13 +12,21 @@ Contact: hello@efektalab.com
 
 Components (BOM):
 
-1. nRF 52840 E73-2G4M08S1C (U1) - https://ali.ski/DzRStr
+1. a. nRF 52840 E73-2G4M08S1C (U1) - https://ali.ski/Bc8_x
 
-2. 32.768k Hz Crystal Oscillator 3x8mm (Y1) - https://ali.ski/XSjDY
+OR
 
-3. LED 1206 SMD (LED blue) - https://ali.ski/IW16Z 
+1. b. nRF 52840 E73-2G4M08S1C (U1) - https://ali.ski/3p2PEK
 
-4. SMD 3528 RGB LED Common Anode 20mA (RGB) - https://ali.ski/duX1-7
+OR
+
+1. c. nRF 52840 E73-2G4M08S1C (U1) - https://ali.ski/c9UlL
+
+2. 32.768k Hz Crystal Oscillator 3x8mm (Y1) - https://ali.ski/MCWN0
+
+3. LED 1206 SMD (LED blue) - https://ali.ski/9i40BC
+
+4. SMD 3528 RGB LED Common Anode 20mA (RGB) - https://ali.ski/eXDx9
 
 5. Micro Button Tact Switch SMD 4Pin 3X4X2.5MM White( U2, U3) - https://ali.ski/EnyRm
 
