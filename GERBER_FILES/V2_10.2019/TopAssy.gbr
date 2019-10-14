@@ -1,11 +1,11 @@
 G04 DipTrace 3.2.0.1*
 G04 TopAssy.gbr*
-%MOMM*%
+%MOIN*%
 G04 #@! TF.FileFunction,Drawing,Top*
 G04 #@! TF.Part,Single*
-%FSLAX35Y35*%
+%FSLAX26Y26*%
 G04*
-G71*
+G70*
 G90*
 G75*
 G01*
