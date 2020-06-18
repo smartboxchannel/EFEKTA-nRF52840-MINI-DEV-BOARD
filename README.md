@@ -35,6 +35,10 @@ OR
 
 2. b. 32.768k Hz Crystal Oscillator 3x8mm (Y1) - https://ali.ski/d6rVO
 
+OR
+
+2. с. 32.768k Hz Crystal Oscillator smd (Y1) - https://ali.ski/qfPPO
+
 3. LED 1206 SMD (LED blue) - https://ali.ski/9i40BC
 
 4. SMD 3528 RGB LED Common Anode 20mA (RGB) - https://ali.ski/eXDx9
