@@ -75,7 +75,7 @@ OR
 
 14. Pin Header Standard Computer Jumper Blocks Connector 2.54 mm - https://ali.ski/CgX_V
 
-15. Capacitor 12PF 0805 (C1, C4) - https://ali.ski/3DDQIl
+15. Capacitor 12PF 0805 (C1, C4) - https://ali.ski/VrEmK
 
 16. Capacitor 4.7UF X5R 10V 0805 (C2, C3, C7) - https://ali.ski/_VN0v
 
