@@ -102,6 +102,12 @@ OR
 24. 0805 SMD 1/8W chip resistor 15K (R2  for green) - https://ali.ski/xEIsqX
 
 25. 0805 SMD 1/8W chip resistor 10K - https://ali.ski/xEIsqX
+
+
+
+![EFEKTA-nRF52840-MINI-DEV-BOARD](https://github.com/smartboxchannel/EFEKTA-nRF52840-MINI-DEV-BOARD/blob/master/IMAGES/IMG_20200504_012922.jpg)
+
+![EFEKTA-nRF52840-MINI-DEV-BOARD](https://github.com/smartboxchannel/EFEKTA-nRF52840-MINI-DEV-BOARD/blob/master/IMAGES/IMG_20200504_012928.jpg)
  
 
 
