@@ -69,7 +69,7 @@ OR
 
 11. 2.54mm Single Row Female PCB Board Pin Header Connector 14P - https://ali.ski/_k-XdS
 
-12. 2.54mm Single Row Female PCB Board Pin Header Connector 8P - https://ali.ski/_k-XdS
+12. 2.54mm Single Row Female PCB Board Pin Header Connector 10P - https://ali.ski/_k-XdS
 
 13. 2.54mm Pin Header 40p Single Row Male Header Connector 2P - https://ali.ski/i76Aq
 
