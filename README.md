@@ -105,9 +105,9 @@ OR
 
 
 
-![EFEKTA-nRF52840-MINI-DEV-BOARD](https://github.com/smartboxchannel/EFEKTA-nRF52840-MINI-DEV-BOARD/blob/prototype-test/IMAGES/IMG_20200504_012922.jpg)
+![EFEKTA-nRF52840-MINI-DEV-BOARD](https://github.com/smartboxchannel/EFEKTA-nRF52840-MINI-DEV-BOARD/blob/prototype-test/IMAGES/IMG_01.jpg)
 
-![EFEKTA-nRF52840-MINI-DEV-BOARD](https://github.com/smartboxchannel/EFEKTA-nRF52840-MINI-DEV-BOARD/blob/prototype-test/IMAGES/IMG_20200504_012928.jpg)
+![EFEKTA-nRF52840-MINI-DEV-BOARD](https://github.com/smartboxchannel/EFEKTA-nRF52840-MINI-DEV-BOARD/blob/prototype-test/IMAGES/IMG_02.jpg)
  
 
 
