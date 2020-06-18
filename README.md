@@ -43,7 +43,7 @@ OR
 
 6. SMD SMT 1X3 PIN single row MALE 2.54MM PITCH PIN Header Strip connector (U4) - https://ali.ski/0vm2G
 
-7. PRTR5V0U2X WR1 ESD protection diode SOT-143 (U5) - https://ali.ski/irIEA-
+7. PRTR5V0U2X WR1 ESD protection diode SOT-143 (U5) - https://ali.ski/-V_35w
 
 8. a. 0805 SMD Chip Magnetic Bead Inductor 400MA Ferrite (FR1, FR2) -  https://ali.ski/Hd-nMn
 
