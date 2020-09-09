@@ -6,9 +6,9 @@ Compatible with pca10059 (Dongle) Board. Can be used in the development of Zigbe
 
 #### You can buy a fully assembled mini development board - $15
 
-#### Donate me :)
+#### Donate me, ..I will make more and faster open devices :)
 
-PayPal: altigraph@yandex.com
+PayPal: altigraph@ya.ru
 
 Yandex Money: 4100140180242
 
