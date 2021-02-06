@@ -4,19 +4,7 @@ Based on nRF52840 (E73-2G4M08S1C).
 
 Compatible with pca10059 (Dongle) Board. Can be used in the development of Zigbee devices. (Sniffer, Coordinator, Router, End device). Also can be used as a cheap version of the arduino nano 33 ble.
 
-#### You can buy a fully assembled mini development board - $15
 
-#### Donate me, ..I will make more and faster open devices :)
-
-VISA: 4048415000506242
-
-PayPal: altigraph@ya.ru
-
-Yandex Money: 4100140180242
-
-WebMoney: Z722291985192, X133903637383, R494367503336
-
-Bitcoin: bc1q4ejf52gfk0p6z8qahq3f7qz9jpm3lmjq9c7rcr
 
 More info at http://efektalab.com/mdb73
 
